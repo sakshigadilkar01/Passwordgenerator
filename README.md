@@ -25,6 +25,5 @@ Open terminal or command prompt
 Run the file using:
    python password_generator.py
 
-Run the file using:
 
 python password_generator.py
