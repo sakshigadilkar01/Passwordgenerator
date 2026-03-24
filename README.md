@@ -20,8 +20,8 @@ The program takes user input such as password length and generates a random pass
 
 ▶️ How to Run
 1. Install Python (version 3.x)
-2. Clone or download this project
-3 .Open terminal or command prompt
-4 .Run the file using:
+2. Clone or download this project 
+3 .Open terminal or command prompt 
+4 .Run the file using: 
    python password_generator.py
 
