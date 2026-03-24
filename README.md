@@ -19,11 +19,9 @@ String Library
 The program takes user input such as password length and generates a random password using a combination of characters including letters, digits, and symbols.
 
 ▶️ How to Run
-Install Python (version 3.x)
-Clone or download this project
-Open terminal or command prompt
-Run the file using:
+1. Install Python (version 3.x)
+2. Clone or download this project
+3 .Open terminal or command prompt
+4 .Run the file using:
    python password_generator.py
 
-
-python password_generator.py
